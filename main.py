@@ -40,7 +40,7 @@ def slicing_special_cases():
         'first_three_reversed': first_three_reversed,
         'last_two_reversed': last_two_reversed,
         'reversed_every_second': reversed_every_second,
-        'between_neg4_and_neg1_reversed_every_second': between_neg4_and_neg1_reversed_every_second
+        'between_neg4_and_neg1_reversed_every_second': between_neg4_and_neg1_reversed_every_second,
     }
 
 
