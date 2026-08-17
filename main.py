@@ -1,3 +1,8 @@
+"""Slicing.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/slicing
+"""
+
 def slicing_special_cases():
     """Üben von Slicings in Python."""
 
@@ -28,7 +33,8 @@ def slicing_special_cases():
     # Kehre die Liste [1, 2, 3, 4, 5] um und nimm nur jeden zweiten Wert.
     reversed_every_second = lst[::-1][::2]
 
-    # Extrahiere die Elemente zwischen den Indizes -4 und -1 der Liste [1, 2, 3, 4, 5], kehre sie um und nimm nur jeden zweiten Wert.
+    # Extrahiere die Elemente zwischen den Indizes -4 und -1 der Liste [1, 2, 3, 4, 5], kehre sie um und nimm nur jeden
+    # zweiten Wert.
     between_neg4_and_neg1_reversed_every_second = lst[-4:-1][::-1][::2]
 
     return {
