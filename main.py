@@ -1,3 +1,8 @@
+"""Slicing.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/slicing
+"""
+
 def slicing_special_cases():
     """Üben von Slicings in Python."""
 
